@@ -1,0 +1,22 @@
+links.txt
+Created Tue Mar 13 16:00:23 AKDT 2018
+Copyright (C) 2018 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Postfix related links
+
+
+Links
+=====
+Filtering spam with Postfix
+http://www.freesoftwaremagazine.com/articles/focus_spam_postfix/
+
+Postfix Howtos and FAQs
+http://www.postfix.org/docs.html
+
+Postfix mail daemon
+http://www.postfix.org/
+
+Postfix (software)
+From Wikipedia, the free encyclopedia
+http://en.wikipedia.org/wiki/Postfix_%28software%29
